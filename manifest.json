@@ -1,0 +1,32 @@
+{
+  "short_name": "Queen Academy",
+  "name": "Queen Academy | Kliprivier Primary School",
+  "description": "A nurturing, future-ready primary school in Kliprivier, Johannesburg. Grades 1-4 with small class sizes and digital literacy.",
+  "icons": [
+    {
+      "src": "assets/images/logo.jpg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "assets/images/logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "assets/images/logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "maskable any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#5B2E8A",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "dir": "ltr"
+}
